@@ -20,7 +20,7 @@ Run [AUTOMATIC1111's Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/st
 ## Quick Start
 
 1. Click the **Open in Colab** badge above, or go to [Google Colab](https://colab.research.google.com/) → **File → Upload notebook** → select `stable_diffusion_colab.ipynb`
-2. **Runtime → Change runtime type** → Runtime type: **Python 3**, Hardware accelerator: **T4 GPU** → **Save**
+2. **Runtime → Change runtime type** → Runtime type: **Python 3**, Hardware accelerator: **T4 GPU** → Version: 2025.10 or 2026.01 → **Save**
 3. **Runtime → Run all** — sit back for ~6 minutes while it installs, downloads the model, and launches
 4. **Click the `trycloudflare.com` URL** that appears in the Cell 3 output → paste a prompt → Generate!
 
