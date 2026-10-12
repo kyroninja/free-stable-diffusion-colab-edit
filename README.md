@@ -1,9 +1,6 @@
 # Free Stable Diffusion on Google Colab
 
 Run [AUTOMATIC1111's Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) for free on Google Colab — no local GPU required.
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lancedesk/free-stable-diffusion-colab/blob/main/stable_diffusion_colab.ipynb)
-
 ---
 
 ## Features
